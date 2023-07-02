@@ -29,6 +29,8 @@ General overview of [open thesis topics](https://docs.google.com/presentation/d/
 
 Explanation of my [concept for research-based teaching](https://www.uni-ulm.de/fileadmin/website_uni_ulm/zle/Tag_der_Lehre/downloads/Scherp-TdL21-vortrag.pdf).
 
+Bookmark this link: https://github.com/data-science-and-big-data-analytics/teaching-examples
+
 Best regards,
 
 Ansgar
