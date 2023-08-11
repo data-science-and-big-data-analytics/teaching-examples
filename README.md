@@ -12,11 +12,15 @@ This folder contains examples of submissions from the last years. Please refer t
 
 * Project-Sub-graph-Sampling: Scientific report and technical report of a MSc project group.
 
+* ThesisBSc-Fabian: Results of the Bachelor's thesis of Fabian Karl on text classification for short text.
+
+* ThesisBSc-Jannek: Example of a Bachelor's thesis (with LaTeX source) from Jannik on k-bisimulation on large graphs. 
+
+* ThesisBSc-Tobias: The Bachelor's thesis of Tobias Kalmbach on statistics extraction from scientific papers.
+
 * SeminarMSc-Till: Seminar report from Till Blume comparing Hidden-Markov-Models (HMM) with Conditional-Random-Fields (CRF) for Named Entity Recognition.
 
 * SeminarMSc-Maximilian: Seminar report (with LaTeX source) from Maximilian Wenzel on Metrics for Multi-class and Multi-label Classification. 
-
-* ThesisBSc-Jannek: Example of a Bachelor's thesis (with LaTeX source) from Jannik on k-bisimulation on large graphs. 
 
 * ThesisMSc-Fabian: Master's thesis (with LaTeX source) of Fabian Singhofer together with British Telecom. Use this folder for the template in LaTeX of your research-oriented thesis.
 
@@ -35,5 +39,11 @@ Best regards,
 
 Ansgar
 
-VERSION: 27 May, 2022
+VERSION: 11 August, 2023
+
+Legend:
+-------
+A-Proposal
+B-Thesis
+C-prePrint/CR
 
