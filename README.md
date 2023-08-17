@@ -14,7 +14,9 @@ This folder contains examples of submissions from the last years. Please refer t
 
 * ThesisBSc-Fabian: Results of the Bachelor's thesis of Fabian Karl on text classification for short text.
 
-* ThesisBSc-Jannek: Example of a Bachelor's thesis (with LaTeX source) from Jannik on k-bisimulation on large graphs. 
+* ThesisBSc-Jannek: Example of a Bachelor's thesis from Jannik on k-bisimulation on large graphs. 
+
+* ThesisBSc-Johannes: Results of the Bachelor's thesis of Johannes on information extraction from captioned video events.
 
 * ThesisBSc-Tobias: The Bachelor's thesis of Tobias Kalmbach on statistics extraction from scientific papers.
 
