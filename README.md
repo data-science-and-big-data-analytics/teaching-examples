@@ -24,6 +24,8 @@ This folder contains examples of submissions from the last years. Please refer t
 
 * SeminarMSc-Maximilian: Seminar report (with LaTeX source) from Maximilian Wenzel on Metrics for Multi-class and Multi-label Classification. 
 
+* ThesisMSc-Andor: The result of the Master's thesis of Andor, together with BT in the UK.
+
 * ThesisMSc-Fabian: Master's thesis (with LaTeX source) of Fabian Singhofer together with British Telecom. Use this folder for the template in LaTeX of your research-oriented thesis.
 
 * ThesisMSc-Mai: Example of a Master's thesis following the research style approach from Florian Mai. The folder containts the original thesis as submitted and the paper published from the thesis.
