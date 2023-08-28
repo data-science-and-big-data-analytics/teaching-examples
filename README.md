@@ -32,7 +32,6 @@ This folder contains examples of submissions from the last years. Please refer t
 
 * ThesisMSc-Lukas + ThesisMSc-Morten: Added two more examples of Master's theses.
 
-
 General overview of [open thesis topics](https://docs.google.com/presentation/d/1k1aEZYX_UM8rWlojgGTV11O85Lu104e2K-CBDg-k-9A).
 
 Explanation of my [concept for research-based teaching](https://www.uni-ulm.de/fileadmin/website_uni_ulm/zle/Tag_der_Lehre/downloads/Scherp-TdL21-vortrag.pdf).
