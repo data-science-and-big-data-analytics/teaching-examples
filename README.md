@@ -34,15 +34,15 @@ This folder contains examples of submissions from the last years. Please refer t
 
 General overview of [open thesis topics](https://docs.google.com/presentation/d/1k1aEZYX_UM8rWlojgGTV11O85Lu104e2K-CBDg-k-9A).
 
-Explanation of my [concept for research-based teaching](https://www.uni-ulm.de/fileadmin/website_uni_ulm/zle/Tag_der_Lehre/downloads/Scherp-TdL21-vortrag.pdf).
+Explanation of my [concept for research-based teaching](https://www.uni-ulm.de/fileadmin/website_uni_ulm/zle/Tag_der_Lehre/downloads/Scherp-TdL21-vortrag.pdf). And an update of the concept with [a presentation of 15 years of experience and the corpus](https://www.uni-ulm.de/fileadmin/website_uni_ulm/zle/Tag_der_Lehre/downloads/Scherp-TdL23-vortrag.pdf).
 
-Bookmark this link: https://github.com/data-science-and-big-data-analytics/teaching-examples
+Bookmark this link: [https://github.com/data-science-and-big-data-analytics/teaching-examples](https://github.com/data-science-and-big-data-analytics/teaching-examples)
 
 Best regards,
 
 Ansgar
 
-VERSION: 11 August, 2023
+VERSION: 19 Oktober, 2023
 
 Legend:
 -------

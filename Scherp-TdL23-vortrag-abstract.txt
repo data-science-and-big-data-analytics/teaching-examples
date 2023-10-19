@@ -1,0 +1,19 @@
+**Title**
+-----
+
+*A Corpus of Research-Based and Group-Based Qualification Works: From Proposal to Submission, to a Peer-Reviewed Paper*
+
+**Abstract**
+----------
+
+In research-based and group-based projects (RGPs), students collaboratively or individually work independently on data analysis tasks or advanced application development tasks. In group-based projects, students are organized into teams of four to six participants. The groups plan, design, implement, and evaluate their solutions to the given tasks. The results are documented in scientific papers that adhere to the standards of good scientific practice and technical writing. Similarly, Bachelor's and Master's theses follow this approach, with the submitted theses resembling scientific papers accompanied by technical documentation, e.g., on GitHub.
+
+In this talk, I will present selected results of this approach collected from students over the last 10+ years. The corpus covers results of group work conducted in parallel with lectures, as well as project groups (which run for six or twelve months). In addition to these group-based projects, there are also results from qualification works, i.e., Bachelor's and Master's theses.
+
+We will discuss the contributions to this corpus and reflect on what worked and what did not. We will also take an exemplary look at the different characteristics of the individual contributions, starting from writing a proposal, to submitting the works as formal contributions to modules taught, up to the camera-ready versions of papers peer-reviewed and accepted at international conferences. Some of the works have also received nominations or awards for best papers.
+
+Apart from examples of student submissions, the corpus also contains a regularly updated template for writing a scientific paper in artificial intelligence and machine learning.
+
+The corpus is publicly available at: [https://github.com/data-science-and-big-data-analytics/teaching-examples](https://github.com/data-science-and-big-data-analytics/teaching-examples)
+
+
