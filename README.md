@@ -36,6 +36,8 @@ General overview of [open thesis topics](https://docs.google.com/presentation/d/
 
 Explanation of my [concept for research-based teaching](https://github.com/data-science-and-big-data-analytics/teaching-examples/blob/main/Scherp-TdL21-vortrag.pdf). And an update of the concept with [a presentation of 15 years of experience and the corpus](https://github.com/data-science-and-big-data-analytics/teaching-examples/blob/main/Scherp-TdL23-vortrag.pdf).
 
+The writing template is officially released on Overleaf. Copy the [latest version of the writing template via Overleaf](https://www.overleaf.com/project/63d2b0f33d6f821ed776f32f) or go to [https://tinyurl.com/dsbda-template](https://tinyurl.com/dsbda-template).
+
 Bookmark this link: [https://github.com/data-science-and-big-data-analytics/teaching-examples](https://github.com/data-science-and-big-data-analytics/teaching-examples)
 
 Best regards,
