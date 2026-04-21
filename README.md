@@ -44,7 +44,7 @@ Best regards,
 
 Ansgar
 
-VERSION: 19 Oktober, 2023
+PS: Other examples of project reports similar to those here can be found for the [Stanford ``CS224N: Natural Language Processing with Deep Learning'' moduie in Winter 2024](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1244/project.html)
 
 Legend:
 -------
