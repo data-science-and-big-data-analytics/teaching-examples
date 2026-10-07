@@ -4,8 +4,6 @@ This folder contains examples of submissions from the last years. Please refer t
 
 * Lecture Exercises: Includes written reports and research proposals from lectures.
 
-For example, the "IMS-StateHopper" contains technical documentation, screencast, published paper etc. from the lecture Interactive Multimedia Systems in 2015. Sub-folder "HCI-Two-Example-Reports" contains two example reports (in ACM style) and corresponding screencasts from the lecture Statistical Methods in Human Computer Studies in 2016.
-
 * Projects: Include the scientific and technical reports, screencasts (in some cases), and peer-reviews papers of practical research projects in the Master's on data science.
 
 * Theses: Contains the results of both Bachelor's and Master's theses, organized along the (A) research proposal, (B) submitted thesis, and (C) the version submitted to arXiv and/or peer-reviewed paper accepted at a CORE-ranked conference.
